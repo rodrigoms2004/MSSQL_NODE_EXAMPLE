@@ -1,0 +1,15 @@
+{
+    "mssqlPool": [
+        {
+            "client": "mssql",
+            "connection": {
+                "host": "HOSTNAME OR IP ADDRESS",
+                "user": "YOUR USERNAME",
+                "password": "YOUR PASSWORD",
+                "database": "YOUR DATABASE",
+                "port": 1433
+            }
+        }
+    ]
+}
+
